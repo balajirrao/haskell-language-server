@@ -4,6 +4,8 @@ packages:
 - .
 - ./ghcide/
 
+# Comment
+
 ghc-options:
   "$everything": -haddock
 
